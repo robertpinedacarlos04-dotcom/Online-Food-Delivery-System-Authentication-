@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\project\\Online-Food-Delivery-System-Authentication-\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02B481FE-C556-4B0B-B8FD-D42EE123D916}|FoodSystem.csproj|c:\\users\\admin\\project\\online-food-delivery-system-authentication-\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B481FE-C556-4B0B-B8FD-D42EE123D916}|FoodSystem.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B481FE-C556-4B0B-B8FD-D42EE123D916}|FoodSystem.csproj|c:\\users\\admin\\project\\online-food-delivery-system-authentication-\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B481FE-C556-4B0B-B8FD-D42EE123D916}|FoodSystem.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B481FE-C556-4B0B-B8FD-D42EE123D916}|FoodSystem.csproj|c:\\users\\admin\\project\\online-food-delivery-system-authentication-\\models\\rider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B481FE-C556-4B0B-B8FD-D42EE123D916}|FoodSystem.csproj|solutionrelative:models\\rider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B481FE-C556-4B0B-B8FD-D42EE123D916}|FoodSystem.csproj|c:\\users\\admin\\project\\online-food-delivery-system-authentication-\\foodsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02B481FE-C556-4B0B-B8FD-D42EE123D916}|FoodSystem.csproj|solutionrelative:foodsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\project\\Online-Food-Delivery-System-Authentication-\\Migrations\\20251203092207_AspNetRider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251203092207_AspNetRider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B481FE-C556-4B0B-B8FD-D42EE123D916}|FoodSystem.csproj|c:\\users\\admin\\project\\online-food-delivery-system-authentication-\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B481FE-C556-4B0B-B8FD-D42EE123D916}|FoodSystem.csproj|solutionrelative:data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B481FE-C556-4B0B-B8FD-D42EE123D916}|FoodSystem.csproj|c:\\users\\admin\\project\\online-food-delivery-system-authentication-\\dtos\\riderregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B481FE-C556-4B0B-B8FD-D42EE123D916}|FoodSystem.csproj|solutionrelative:dtos\\riderregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B481FE-C556-4B0B-B8FD-D42EE123D916}|FoodSystem.csproj|c:\\users\\admin\\project\\online-food-delivery-system-authentication-\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B481FE-C556-4B0B-B8FD-D42EE123D916}|FoodSystem.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B481FE-C556-4B0B-B8FD-D42EE123D916}|FoodSystem.csproj|c:\\users\\admin\\project\\online-food-delivery-system-authentication-\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B481FE-C556-4B0B-B8FD-D42EE123D916}|FoodSystem.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B481FE-C556-4B0B-B8FD-D42EE123D916}|FoodSystem.csproj|c:\\users\\admin\\project\\online-food-delivery-system-authentication-\\services\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B481FE-C556-4B0B-B8FD-D42EE123D916}|FoodSystem.csproj|solutionrelative:services\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B481FE-C556-4B0B-B8FD-D42EE123D916}|FoodSystem.csproj|c:\\users\\admin\\project\\online-food-delivery-system-authentication-\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B481FE-C556-4B0B-B8FD-D42EE123D916}|FoodSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B481FE-C556-4B0B-B8FD-D42EE123D916}|FoodSystem.csproj|c:\\users\\admin\\project\\online-food-delivery-system-authentication-\\foodsystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{02B481FE-C556-4B0B-B8FD-D42EE123D916}|FoodSystem.csproj|solutionrelative:foodsystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B481FE-C556-4B0B-B8FD-D42EE123D916}|FoodSystem.csproj|c:\\users\\admin\\project\\online-food-delivery-system-authentication-\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02B481FE-C556-4B0B-B8FD-D42EE123D916}|FoodSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20251203092207_AspNetRider.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\project\\Online-Food-Delivery-System-Authentication-\\Migrations\\20251203092207_AspNetRider.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251203092207_AspNetRider.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\project\\Online-Food-Delivery-System-Authentication-\\Migrations\\20251203092207_AspNetRider.cs",
+              "RelativeToolTip": "Migrations\\20251203092207_AspNetRider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T09:22:08.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FoodSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\project\\Online-Food-Delivery-System-Authentication-\\FoodSystem.csproj",
+              "RelativeDocumentMoniker": "FoodSystem.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\project\\Online-Food-Delivery-System-Authentication-\\FoodSystem.csproj",
+              "RelativeToolTip": "FoodSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-03T01:21:20.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rider.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\project\\Online-Food-Delivery-System-Authentication-\\Models\\Rider.cs",
+              "RelativeDocumentMoniker": "Models\\Rider.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\project\\Online-Food-Delivery-System-Authentication-\\Models\\Rider.cs",
+              "RelativeToolTip": "Models\\Rider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T15:51:02.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\project\\Online-Food-Delivery-System-Authentication-\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\project\\Online-Food-Delivery-System-Authentication-\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAADwv0wAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T14:57:32.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\project\\Online-Food-Delivery-System-Authentication-\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\project\\Online-Food-Delivery-System-Authentication-\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwBwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T07:38:04.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RiderRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\project\\Online-Food-Delivery-System-Authentication-\\DTOs\\RiderRegisterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\RiderRegisterDto.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\project\\Online-Food-Delivery-System-Authentication-\\DTOs\\RiderRegisterDto.cs",
+              "RelativeToolTip": "DTOs\\RiderRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T02:32:03.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\project\\Online-Food-Delivery-System-Authentication-\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\project\\Online-Food-Delivery-System-Authentication-\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:08:29.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\project\\Online-Food-Delivery-System-Authentication-\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\project\\Online-Food-Delivery-System-Authentication-\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAuwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:08:34.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\project\\Online-Food-Delivery-System-Authentication-\\Services\\AuthController.cs",
+              "RelativeDocumentMoniker": "Services\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\project\\Online-Food-Delivery-System-Authentication-\\Services\\AuthController.cs",
+              "RelativeToolTip": "Services\\AuthController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:08:33.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\project\\Online-Food-Delivery-System-Authentication-\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\project\\Online-Food-Delivery-System-Authentication-\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:08:47.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\project\\Online-Food-Delivery-System-Authentication-\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "Data\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\project\\Online-Food-Delivery-System-Authentication-\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "Data\\DbSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T13:24:35.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FoodSystem.http",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\project\\Online-Food-Delivery-System-Authentication-\\FoodSystem.http",
+              "RelativeDocumentMoniker": "FoodSystem.http",
+              "ToolTip": "C:\\Users\\ADMIN\\project\\Online-Food-Delivery-System-Authentication-\\FoodSystem.http",
+              "RelativeToolTip": "FoodSystem.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-25T15:08:45.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\project\\Online-Food-Delivery-System-Authentication-\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\project\\Online-Food-Delivery-System-Authentication-\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-25T15:09:55.391Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
