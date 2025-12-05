@@ -11,7 +11,7 @@ namespace FoodSystem.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    [Authorize(Roles = "Admin")]
+    [Authorize(Roles = "SuperAdmin")]
     public class AdminController : ControllerBase
     {
         private readonly IAuthService _authService;
@@ -42,6 +42,12 @@ namespace FoodSystem.Controllers
 
             var existingRider = await _context.Riders.FirstOrDefaultAsync(r => r.PlateNumber == dto.PlateNumber);
             if (existingRider != null) return BadRequest(new { Message = "This Plate-number is already registered." });
+
+            if (dto.PhoneNumber.Length > 15)
+                return BadRequest(new { Message = "This Phone-number exceeds the 15 character limit." });
+
+            if (dto.Password.Length < 8)
+                return BadRequest(new { Message = "Password must atleast 8." });
 
             var user = new User
             {
